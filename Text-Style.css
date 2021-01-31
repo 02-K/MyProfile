@@ -1,0 +1,32 @@
+/* Text Style*/
+
+h1{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 40px;
+	color: #f05454;
+	letter-spacing: 1.5px;
+}
+
+#Paragraphe1{
+	color: #eeeeee;
+
+
+}
+
+h2{
+
+	color: #222831 ;
+	text-align: center;
+	/*0 width 4px height, shadows with colors*/
+	text-shadow: 0 4px 0 #00ecff, 0 -4px 0 #ff4045;
+	
+	text-transform: uppercase;
+	font-family: Courier;
+	font-size: 26px;
+}
+
+p{
+	color: #222831;
+	font-family: Calibri;
+	font-size: 20px;
+}
